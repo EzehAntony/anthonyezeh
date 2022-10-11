@@ -1,0 +1,45 @@
+html,
+body {
+    font-family: "Montserrat", monospace;
+    overflow-x: hidden;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+img,
+div,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+li,
+p {
+    user-select: none;
+    -webkit-user-drag: none;
+    -moz-window-dragging: none;
+    color: #444444;
+    letter-spacing: 1px;
+    outline: none;
+    font-weight: 500;
+}
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+@media (prefers-color-scheme: dark) {
+    html {
+        color-scheme: dark;
+    }
+    body {
+        color: white;
+        background: #f6f1eb;
+    }
+}
