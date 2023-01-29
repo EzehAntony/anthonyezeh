@@ -121,6 +121,7 @@
 .summary p {
   padding: 0 20px;
   max-width: 800px;
+  font-size: 14px;
 }
 
 .summary .arrow {
@@ -231,7 +232,7 @@
   right: 20px;
   font-weight: 600;
   padding: 0 5px;
-  font-size: 15px;
+  font-size: 14px;
   text-shadow: 10px 10px 22px white;
 }
 

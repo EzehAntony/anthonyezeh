@@ -318,10 +318,10 @@ function Profile() {
         />
         <h1 className="summaryh">Summary</h1>
         <p>
-          I’m a self taught<span>front-end</span> web developer with a few years
-          of experience. I have acquired experience that has improved my
-          productivity in the long run, having worked on personal projects and
-          with friends. This has also impacted on my skills, problem solving
+          I’m a self taught <span>front-end</span> web developer with a few
+          years of experience. I have acquired experience that has improved my
+          productivity in the long run, having worked on personal projects with
+          a few friends, This has impacted on my skills, problem solving
           ability, communication ability, and ability to carry out research
           pertaining to what is required for a job. It is an art to me, I love
           what I do and I really admire the process to completion; it is
@@ -385,7 +385,7 @@ function Profile() {
       </div>
 
       <div id="projects" className={styles.projects}>
-        '<h1>Projects</h1>
+        <h1>Projects</h1>
         <ul>
           <Link href="https://crayonne-loan.vercel.app/">
             <div>
