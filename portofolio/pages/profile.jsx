@@ -482,7 +482,7 @@ function Profile() {
       <footer>
         <p>my social links</p>
         <div className={styles.link}>
-          <Link href={"https://www.facebook.com/anthony.ezeh.37017"}>
+          <Link href={"https://www.facebook.com/profile.php?id=100088849056244&mibextid=ZbWKwL"}>
             <img src="/facebook.svg" alt="Facebook" />
           </Link>
           <Link href={"https://wa.link/nnxvsf"}>
