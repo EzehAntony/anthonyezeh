@@ -205,7 +205,7 @@ function Profile() {
       },
     });
 
-    for (var i = 0; i < 7; i++) {
+    for (var i = 0; i < 10; i++) {
       gsap.from(g(`#projects  div:nth-of-type(${i}) img`), 1, {
         y: 40,
         opacity: 0,
